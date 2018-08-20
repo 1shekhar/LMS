@@ -15,9 +15,7 @@
 		"dataDir": "/opt/gamma/gamma_data",
 		"modules": {
 			"codeissues": [
-					{
-					"name": "pmd"
-					}]
+					]
 		}
 	}]
 }
