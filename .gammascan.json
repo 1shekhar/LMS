@@ -1,0 +1,23 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.2.11:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin1234"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "5b94069b43593fd103ff28a4e68bbe42",
+			"projectName": "RJ_GokhanGirgin_Java",
+			"sources": {
+				"baseDir": "$WORKSPACE"
+			}
+		},
+		"dataDir": "/opt/gamma/gamma_data",
+		"modules": {
+			"codeissues": [
+					{
+					"name": "pmd"
+					}]
+		}
+	}]
+}
