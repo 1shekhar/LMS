@@ -6,13 +6,13 @@
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "fd3449fcdbe8c76186fb1d74a8d6e1b9",
-			"projectName": "JenkinsPipeline_GokhanGirgin",
+			"uid": "0165a8880d26102d712e7b0cd7f8d170",
+			"projectName": "LJ_GokhanGirgin",
 			"sources": {
 				"baseDir": "$WORKSPACE"
 			}
 		},
-		"dataDir": "/opt/gamma/gamma_data/JPipeline",
+		"dataDir": "/opt/gamma/gamma_data/LMS_Java",
 		"modules": {
 			"codeissues": [{
 						"name": "pmd"
